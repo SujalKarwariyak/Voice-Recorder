@@ -1,0 +1,5 @@
+Voice Recorder setup
+1. Install Python 3.9 or later (tick "Add Python to PATH" on Windows).
+2. pip install -r requirements.txt
+3. Run: python -m voice_recorder   (Windows: double-click run.bat)
+Tests: pip install -r requirements-dev.txt && python -m pytest
